@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+spacy
+en-core-web-sm-mirror
+pillow
+matplotlib
+transformers
+opencv-python
+sklearn
+yacs
+colorlog
